@@ -1,6 +1,6 @@
 #write your code here
 
-def countdown(number=10)
+def countdown(number)
   number = gets.chomp.to_i
   while number > 0 do
     puts "#{number} SECOND(S)!"
