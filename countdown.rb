@@ -6,4 +6,4 @@ def countdown(number)
     number-=1
   end
 end
-puts "HAPPY NEW YEAR!"
+countdown = puts "HAPPY NEW YEAR!"
